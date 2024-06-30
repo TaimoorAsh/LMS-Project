@@ -1,0 +1,32 @@
+body {
+    background-color: #f8f9fa;
+    color: #343a40;
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.table {
+    border-radius: 0.25rem;
+    overflow: hidden;
+}
+
+.table th,
+.table td {
+    vertical-align: middle;
+}
+
+.table-hover tbody tr:hover {
+    background-color: #e9ecef;
+}
+
+.table-dark {
+    background-color: #343a40;
+    color: #ffffff;
+}
+
+.table-dark th {
+    border-color: #454d55;
+}
